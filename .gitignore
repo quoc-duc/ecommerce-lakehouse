@@ -1,0 +1,10 @@
+.DS_Store
+.env
+minio.env
+venv/
+data/
+Storage/
+TempPackages/
+*.tgz
+*.jar
+.ipynb_checkpoints/
