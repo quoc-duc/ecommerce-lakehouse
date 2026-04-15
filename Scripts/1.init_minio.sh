@@ -8,7 +8,7 @@ fi
 
 PLATFORM="$2"
 if [ -z "${PLATFORM}" ]; then
-    PLATFORM="amd64"
+    PLATFORM="arm64"
 fi
 
 echo ""
